@@ -18,9 +18,6 @@ README.md
 
 <div style="width: 100%; display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
   <div style="width: 45%; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatheusMarquesEiras&layout=compact&theme=dark" alt="Matheus Marques Eiras's GitHub Stats" style="height: 300px; object-fit: contain;"/>
-  </div>
-  <div style="width: 45%; display: flex; justify-content: center;">
     <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarquesEiras&layout=compact&theme=dark&langs_count=8" style="height: 300px; object-fit: contain;"/>
   </div>
 </div>
