@@ -9,10 +9,10 @@
   </p>
 </div>
 
-<div style="width: 100%; display: flex; justify-content: space-around; align-items: flex-start; gap: 40px; padding: 0 20px;">
+<div style="width: 100%; display: flex; justify-content: center; align-items: flex-start; gap: 60px;">
   <!-- Lista à esquerda -->
-  <div style="width: 40%;">
-    <ul style="font-size: 14px; line-height: 1.8; margin: 0; padding-left: 20px; text-align: left;">
+  <div style="width: 30%; min-width: 250px;">
+    <ul style="font-size: 14px; line-height: 2; margin: 0; padding-left: 20px; text-align: left;">
       <li>🎓 Estudante de Ciência da Computação no IFPR-Pinhais</li>
       <li>💻 Apaixonado por tecnologia e inovação</li>
       <li>🚀 Sempre buscando novos desafios</li>
@@ -21,8 +21,8 @@
   </div>
 
   <!-- Imagem à direita -->
-  <div style="width: 40%; display: flex; justify-content: center;">
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarquesEiras&layout=compact&theme=dark&langs_count=8" style="height: 300px; object-fit: contain;"/>
+  <div style="width: 30%; min-width: 250px; display: flex; justify-content: center;">
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarquesEiras&layout=compact&theme=dark&langs_count=8" style="width: 100%; height: auto; object-fit: contain;"/>
   </div>
 </div>
 
