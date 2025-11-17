@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" alt="Header waving">
 </p>
 
-<div style="text-align: center; margin-bottom: 30px;">
+<div style="text-align: center; margin-bottom: 30px; display: flex; align-items: center; justfly-content: center; flex-direction: column">
   <h3>👋 Olá! Sou Matheus Marques Eiras</h3>
   <p style="font-size: 16px; margin: 15px 0;">
     <strong>Dev Full Stack</strong> | Brasil, PR
