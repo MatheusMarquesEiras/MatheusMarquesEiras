@@ -21,7 +21,7 @@
   </div>
 
   <!-- Imagem à direita -->
-  <div style="width: 30%; min-width: 250px; display: flex; justify-content: center;">
+  <div>
     <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarquesEiras&layout=compact&theme=dark&langs_count=8" style="width: 100%; height: auto; object-fit: contain;"/>
   </div>
 </div>
