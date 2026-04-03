@@ -48,15 +48,15 @@
   <table style="border-collapse: collapse; margin: 0 auto;">
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMarquesEiras&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusMarquesEiras&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarquesEiras&layout=compact&theme=tokyonight&langs_count=8" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusMarquesEiras&layout=compact&theme=tokyonight&langs_count=8" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusMarquesEiras&theme=tokyonight" />
+        <img height="180em" src="https://streak-stats.demolab.com/?user=MatheusMarquesEiras&theme=tokyonight" />
       </td>
     </tr>
   </table>
